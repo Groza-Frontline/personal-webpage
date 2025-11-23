@@ -82,6 +82,16 @@ h3{
     text-align: center; 
 }
 
+div2{
+    text-align: center;
+    margin-top: 5px;
+}
+
+div3{
+    text-align: center;
+    margin-top: 5px;
+}
+
 p4{
     font: 1.5em arial;
     font-size: 28px; 
@@ -90,5 +100,7 @@ p4{
     margin-left: 5px;
     padding: 50px; 
 }
+
+
 
 
