@@ -29,6 +29,13 @@ p{
     padding: 50px; 
 }
 
+h2{
+    font: 1.5em arial;
+    font-size: 30px;
+    text-align: center;
+    margin: 0px;  
+}
+
 p2{
     font: 1.5em arial;
     font-size: 28px; 
@@ -45,13 +52,6 @@ p3{
     margin-top: 5px; 
     margin-left: 5px;
     padding: 50px; 
-}
-
-h2{
-    font: 1.5em arial;
-    font-size: 30px;
-    text-align: center;
-    margin: 0px;  
 }
 
 ul{
@@ -73,6 +73,22 @@ li{
     text-align: left; 
     margin-left: 50px;
     padding: 10px; 
+}
+
+h3{
+    font: 1.5em arial;
+    font-size: 40px; 
+    color: black; 
+    text-align: center; 
+}
+
+p4{
+    font: 1.5em arial;
+    font-size: 28px; 
+    text-align: left; 
+    margin-top: 5px; 
+    margin-left: 5px;
+    padding: 50px; 
 }
 
 
