@@ -6,6 +6,10 @@ nav{
     margin-top: 60px;
 }
 
+a{
+    font-family: "Share Tech Mono", sans-serif;
+}
+
 html{
   display: block;
 }
