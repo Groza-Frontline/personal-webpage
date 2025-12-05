@@ -1,9 +1,20 @@
+body{
+    background-image: url('Asul.jpg');
+    font-family: "Rubik", sans-serif;
+    color: white;
+    margin-left: 40px;
+}
+
 nav{
     font: 1.5em arial;
     font-size: 30px; 
     text-align: right;
     max-height: 700px;
     margin-top: 60px;
+}
+
+a{
+    font-family: "Share Tech Mono", sans-serif;
 }
 
 h1{
@@ -13,12 +24,6 @@ h1{
 }
 
 h2{
-    font-family: 'Monserrat', sans-serif;
-    font-size: 25px;
-    text-align: center;
-}
-
-a{
     font-family: 'Monserrat', sans-serif;
     font-size: 25px;
     text-align: center;
