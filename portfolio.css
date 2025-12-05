@@ -1,5 +1,8 @@
 body{
     background-image: url('Bughaw.jpg');
+    font-family: "Rubik", sans-serif;
+    color: white;
+    margin-left: 40px;
 }
 
 nav{
@@ -8,6 +11,22 @@ nav{
     text-align: right;
     max-height: 700px;
     margin-top: 60px;
+}
+
+a{
+    font-family: "Share Tech Mono", sans-serif;
+}
+
+div.three-d{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+div.two-d{
+    display: flex;
+    gap: 20px;
+    align-items: center;
 }
 
 h1{
@@ -25,6 +44,26 @@ h2{
 p{
     font-family: 'Monserrat', sans-serif;
     font-size: 25px;
+    text-align: center;
+}
+
+.arduino{
+    text-align: center;
+}
+
+.frame{
+    text-align: center;
+}
+
+.sciencevid{
+    text-align: center;
+}
+
+.pubmats{
+    text-align: center;
+}
+
+.infograph{
     text-align: center;
 }
 
