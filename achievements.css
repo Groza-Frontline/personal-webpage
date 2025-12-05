@@ -1,6 +1,10 @@
 body{
     background-image: url('Asul.jpg');
+    font-family: "Rubik", sans-serif;
+    color: white;
+    margin-left: 40px;
 }
+
 
 nav{
     font: 1.5em arial;
@@ -10,10 +14,14 @@ nav{
     margin-top: 60px;
 }
 
+a{
+    font-family: "Share Tech Mono", sans-serif;
+}
+
 h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 50px;
-    text-align: left;
+    text-align: center;
 }
 
 h2{
