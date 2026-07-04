@@ -23,6 +23,12 @@ div.four-d{
     text-align: center;
 }
 
+div.five-d{
+    display: flex;
+    gap: 20px;
+    text-align: center;
+}
+
 div.three-d{
     display: flex;
     gap: 20px;
