@@ -18,19 +18,16 @@ a{
 }
 
 div.four-d{
-    display: flex;
     gap: 20px;
     text-align: center;
 }
 
 div.five-d{
-    display: flex;
     gap: 20px;
     text-align: center;
 }
 
 div.six-d{
-    display: flex;
     gap: 20px;
     text-align: center;
 }
