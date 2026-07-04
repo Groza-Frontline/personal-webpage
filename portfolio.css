@@ -33,7 +33,12 @@ div.six-d{
 }
 
 div.seven-d{
-    gap: 100px;
+    gap: 20px;
+    text-align: center;
+}
+
+div.eight-d{
+    gap: 20px;
     text-align: center;
 }
 
