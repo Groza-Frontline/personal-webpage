@@ -32,6 +32,11 @@ div.six-d{
     text-align: center;
 }
 
+div.seven-d{
+    gap: 100px;
+    text-align: center;
+}
+
 div.three-d{
     display: flex;
     gap: 20px;
