@@ -29,6 +29,12 @@ div.five-d{
     text-align: center;
 }
 
+div.six-d{
+    display: flex;
+    gap: 20px;
+    text-align: center;
+}
+
 div.three-d{
     display: flex;
     gap: 20px;
