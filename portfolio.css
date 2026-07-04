@@ -17,6 +17,12 @@ a{
     font-family: "Share Tech Mono", sans-serif;
 }
 
+div.four-d{
+    display: flex;
+    gap: 20px;
+    text-align: center;
+}
+
 div.three-d{
     display: flex;
     gap: 20px;
