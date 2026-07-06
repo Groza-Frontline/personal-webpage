@@ -38,6 +38,7 @@ div.seven-d{
 }
 
 div.eight-d{
+    display: flex;
     gap: 20px;
     text-align: center;
 }
